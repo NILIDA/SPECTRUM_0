@@ -1,0 +1,9 @@
+# requirements.txt
+
+scienceplots
+matplotlib
+pandas
+numpy
+scipy
+
+PyQt6
